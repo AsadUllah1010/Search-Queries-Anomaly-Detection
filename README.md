@@ -26,3 +26,5 @@ In this correlation matrix:
 6. CTR and Position have a strong negative correlation, meaning that higher Positions result in lower Click-Through Rates.
 <br>
 The anomalies in our search query data are not just outliers. They are indicators of potential areas for growth, optimization, and strategic focus. These anomalies are reflecting emerging trends or areas of growing interest. Staying responsive to these trends will help in maintaining and growing the website’s relevance and user engagement. So, Search Queries Anomaly Detection means identifying queries that are outliers according to their performance metrics. It is valuable for businesses to spot potential issues or opportunities, such as unexpectedly high or low CTRs.
+# Contributing
+If you are interested in contributing to the project, please create a fork of the repository and submit a pull request. All contributions are welcome and appreciated.
