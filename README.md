@@ -24,4 +24,5 @@ In this correlation matrix:
 4. Impressions and CTR are negatively correlated, indicating that higher Impressions tend to result in a lower Click-Through Rate.
 5. Impressions and Position are positively correlated, indicating that ads or pages in higher Positions receive more Impressions.
 6. CTR and Position have a strong negative correlation, meaning that higher Positions result in lower Click-Through Rates.
+<br>
 The anomalies in our search query data are not just outliers. They are indicators of potential areas for growth, optimization, and strategic focus. These anomalies are reflecting emerging trends or areas of growing interest. Staying responsive to these trends will help in maintaining and growing the website’s relevance and user engagement. So, Search Queries Anomaly Detection means identifying queries that are outliers according to their performance metrics. It is valuable for businesses to spot potential issues or opportunities, such as unexpectedly high or low CTRs.
