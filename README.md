@@ -15,3 +15,13 @@ Search Queries Anomaly Detection is a technique to identify unusual or unexpecte
 4. CTR (Click Through Rate): The ratio of clicks to impressions, indicating the effectiveness of the query in leading users to the website.
 5. Position: The average ranking of the website in search results for the query.
 # Usage
+Jupyter Notebook
+# Conclusion
+In this correlation matrix:
+1. Clicks and Impressions are positively correlated, meaning more Impressions tend to lead to more Clicks.
+2. Clicks and CTR have a weak positive correlation, implying that more Clicks might slightly increase the Click-Through Rate.
+3. Clicks and Position are weakly negatively correlated, suggesting that higher ad or page Positions may result in fewer Clicks.
+4. Impressions and CTR are negatively correlated, indicating that higher Impressions tend to result in a lower Click-Through Rate.
+5. Impressions and Position are positively correlated, indicating that ads or pages in higher Positions receive more Impressions.
+6. CTR and Position have a strong negative correlation, meaning that higher Positions result in lower Click-Through Rates.
+The anomalies in our search query data are not just outliers. They are indicators of potential areas for growth, optimization, and strategic focus. These anomalies are reflecting emerging trends or areas of growing interest. Staying responsive to these trends will help in maintaining and growing the website’s relevance and user engagement. So, Search Queries Anomaly Detection means identifying queries that are outliers according to their performance metrics. It is valuable for businesses to spot potential issues or opportunities, such as unexpectedly high or low CTRs.
